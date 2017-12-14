@@ -1,0 +1,4 @@
+1、tag <div id="choosetime"></div> to init
+
+2、get data
+getTime()   ->  {year: "1990年", month: "1月", day: "1日", hour: "1时", minute: "58分"}

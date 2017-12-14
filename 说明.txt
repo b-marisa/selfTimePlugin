@@ -1,4 +1,0 @@
-1、css依赖 swiper.css index.css 
-2、js依赖jquery.js swiper.js，swiper选择3开头的版本
-3、在body内，建一个id为choosetime的div即可自动嵌入。
-4、全局下getTime()获取返回值。
